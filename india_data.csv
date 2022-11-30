@@ -1,0 +1,9 @@
+﻿survey,gs,hl,affluence,animals,family,dependents,sex,occupation,pain,age,liters,distance,dry_broken,liters_animals,children_F,children_M,contamination
+i1,S,L,R,8,6,4,F,DW,Y,M,105,10,Y,60,2,3    ,N
+i2,S,L,P,0,8,6,F,FW,Y,M,140,6,Y,,1,6    ,N
+i3,G,H,P,8.5,11,9,F,FW,Y,All,325,,Y,50,1,2    ,N
+i4,S,L,R,2,3,1,F,FW,N,Y,160,,N,,0,1,N
+i5,S,H,R,21,7,1,F,FW,N,E,140,,Y,40,0,2    ,N
+i6,S,H,R,0,1,0,F,FW,N,M,20,,Y,,0,1,N
+i7,S,H,R,14,13,5,F,Health Worker,N,All,430,,Y,40,0,4,N
+i8,G,H,R,17,27,16,F,FW,N,All,800,,Y,400,,,N
